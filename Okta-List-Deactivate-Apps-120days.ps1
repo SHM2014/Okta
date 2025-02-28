@@ -1,6 +1,6 @@
 ﻿# Set Okta API Credentials
-$OktaDomain = "nevro.okta.com"   # Example: yourcompany.okta.com
-$ApiToken = "00N7ZkOTZ3MPyvCzBlQd4WBjgQnqfDJqkXY20wMzlw"
+$OktaDomain = "XYZ.okta.com"   # Example: yourcompany.okta.com
+$ApiToken = "Your_OKTA_API_TOKEN"
 
 # Headers for API Authentication
 $headers = @{
